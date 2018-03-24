@@ -1,0 +1,73 @@
+D:\visual studio 2010\Projects\医院管理系统\DAL\bin\Debug\DAL.dll
+D:\visual studio 2010\Projects\医院管理系统\DAL\bin\Debug\DAL.pdb
+D:\visual studio 2010\Projects\医院管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\visual studio 2010\Projects\医院管理系统\DAL\obj\Debug\DAL.dll
+D:\visual studio 2010\Projects\医院管理系统\DAL\obj\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\医院管理系统\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\医院管理系统\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\医院管理系统\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\医院管理系统\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\医院管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\医院管理系统\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\医院管理系统\DAL\obj\Debug\DAL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\DAL\bin\Debug\DAL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\DAL\bin\Debug\DAL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\DAL\bin\Debug\Model.dll
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\DAL\bin\Debug\Model.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\DAL\obj\Debug\DAL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\DAL\obj\Debug\DAL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\DAL\bin\Debug\DAL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\DAL\bin\Debug\DAL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\DAL\bin\Debug\Model.dll
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\DAL\bin\Debug\Model.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\DAL\obj\Debug\DAL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\DAL\obj\Debug\DAL.pdb
+E:\廖义德-陈小松-鞠志伟\医院管理系统\DAL\bin\Debug\DAL.dll
+E:\廖义德-陈小松-鞠志伟\医院管理系统\DAL\bin\Debug\DAL.pdb
+E:\廖义德-陈小松-鞠志伟\医院管理系统\DAL\bin\Debug\Model.dll
+E:\廖义德-陈小松-鞠志伟\医院管理系统\DAL\bin\Debug\Model.pdb
+E:\廖义德-陈小松-鞠志伟\医院管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+E:\廖义德-陈小松-鞠志伟\医院管理系统\DAL\obj\Debug\DAL.dll
+E:\廖义德-陈小松-鞠志伟\医院管理系统\DAL\obj\Debug\DAL.pdb
+F:\Projects\医院管理系统\医院管理系统\DAL\bin\Debug\DAL.dll
+F:\Projects\医院管理系统\医院管理系统\DAL\bin\Debug\DAL.pdb
+F:\Projects\医院管理系统\医院管理系统\DAL\bin\Debug\Model.dll
+F:\Projects\医院管理系统\医院管理系统\DAL\bin\Debug\Model.pdb
+F:\Projects\医院管理系统\医院管理系统\DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\医院管理系统\医院管理系统\DAL\obj\Debug\DAL.dll
+F:\Projects\医院管理系统\医院管理系统\DAL\obj\Debug\DAL.pdb
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\DAL\bin\Debug\DAL.dll
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\DAL\bin\Debug\DAL.pdb
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\DAL\bin\Debug\Model.dll
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\DAL\bin\Debug\Model.pdb
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\DAL\obj\Debug\DAL.dll
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\DAL\obj\Debug\DAL.pdb
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\DAL\bin\Debug\DAL.dll
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\DAL\bin\Debug\DAL.pdb
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\DAL\bin\Debug\Model.dll
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\DAL\bin\Debug\Model.pdb
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\DAL\obj\Debug\DAL.dll
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\DAL\obj\Debug\DAL.pdb
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\DAL.dll
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\DAL.pdb
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\Model.dll
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySql.Data.dll
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.dll
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySQL.Data.EntityFrameworkCore.dll
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySql.Web.dll
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\Model.pdb
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySql.Data.xml
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySQL.Data.EntityFrameworkCore.xml
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySQL.Data.EntityFrameworkCore.Design.xml
+E:\githubCodes\医院管理系统源码\DAL\bin\Debug\MySql.Web.xml
+E:\githubCodes\医院管理系统源码\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\githubCodes\医院管理系统源码\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\githubCodes\医院管理系统源码\DAL\obj\Debug\DAL.dll
+E:\githubCodes\医院管理系统源码\DAL\obj\Debug\DAL.pdb
+E:\githubCodes\医院管理系统源码\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
